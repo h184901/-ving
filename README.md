@@ -1,0 +1,2 @@
+# -ving
+rakhman fikse
